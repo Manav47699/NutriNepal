@@ -2,7 +2,7 @@
 
 
 # System architecture
-
+```
 === THE NEPALI LIFESTYLE-BASED DIET & FITNESS PIPELINE ===
 
  [ USER CAPTURE LAYER ]
@@ -61,4 +61,4 @@
     │  - Latency: ~1.0 ms
     ▼
  [ CONSUMPTION TIER ] ───► App Dashboard UI (Renders rich cards, triggers local alerts, loops to next day)
- 
+ ```
